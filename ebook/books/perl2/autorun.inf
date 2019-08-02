@@ -1,8 +1,0 @@
-[autorun]
-OPEN=bin\i386\ShelExec index.htm
-
-[autorun.x86]
-OPEN=bin\i386\ShelExec index.htm
-
-[autorun.alpha]
-OPEN=bin\Alpha\ShelExec index.htm
